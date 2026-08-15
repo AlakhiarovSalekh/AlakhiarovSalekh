@@ -5,7 +5,7 @@ Full Stack Software Engineer • Mobile Developer • Desktop Application Develo
 </h3>
 
 <p align="center">
-Building modern, scalable and high-performance software solutions for Web, Android, iOS and Desktop platforms.
+I build modern, scalable and high-performance software solutions for Web, Android, iOS and Desktop platforms.
 </p>
 
 <p align="center">
