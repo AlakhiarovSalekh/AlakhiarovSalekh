@@ -1,0 +1,97 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300">
+    <stop stop-color="#07111F"/>
+    <stop offset=".5" stop-color="#0B1730"/>
+    <stop offset="1" stop-color="#17132E"/>
+  </linearGradient>
+  <radialGradient id="g1" cx="0" cy="0" r="1" gradientTransform="translate(210 250) rotate(-28) scale(430 240)">
+    <stop stop-color="#0284C7" stop-opacity=".25"/>
+    <stop offset="1" stop-color="#0284C7" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g2" cx="0" cy="0" r="1" gradientTransform="translate(1020 40) rotate(150) scale(420 250)">
+    <stop stop-color="#7C3AED" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="line" x1="180" y1="150" x2="1020" y2="150">
+    <stop stop-color="#38BDF8"/>
+    <stop offset=".5" stop-color="#22D3EE"/>
+    <stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".22"/>
+  </filter>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity=".045"/>
+  </pattern>
+</defs>
+
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#bg)" stroke="#334155"/>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#g1)"/>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#g2)"/>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#grid)"/>
+
+<text x="56" y="52" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">How I think about a product</text>
+<text x="56" y="76" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="12">A reliable system is the result of strong boundaries across every layer.</text>
+
+<path d="M194 154H1006" stroke="url(#line)" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+
+<g filter="url(#shadow)">
+  <g transform="translate(56 112)">
+    <rect width="210" height="104" rx="16" fill="#0A1A2D" stroke="#1D4ED8" stroke-opacity=".72"/>
+    <text x="20" y="30" fill="#7DD3FC" font-family="Segoe UI, Arial" font-size="11" font-weight="800" letter-spacing="1.1">PRODUCT EXPERIENCE</text>
+    <rect x="20" y="46" width="164" height="10" rx="5" fill="#38BDF8" fill-opacity=".22"/>
+    <rect x="20" y="66" width="126" height="8" rx="4" fill="#CBD5E1" fill-opacity=".14"/>
+    <text x="20" y="91" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="10">Web • Desktop • Mobile</text>
+  </g>
+
+  <g transform="translate(286 112)">
+    <rect width="210" height="104" rx="16" fill="#0A1A2D" stroke="#0EA5E9" stroke-opacity=".7"/>
+    <text x="20" y="30" fill="#67E8F9" font-family="Segoe UI, Arial" font-size="11" font-weight="800" letter-spacing="1.1">APPLICATION LAYER</text>
+    <circle cx="27" cy="52" r="6" fill="#38BDF8"/>
+    <rect x="42" y="47" width="122" height="9" rx="4.5" fill="#CBD5E1" fill-opacity=".15"/>
+    <circle cx="27" cy="74" r="6" fill="#22D3EE"/>
+    <rect x="42" y="69" width="98" height="9" rx="4.5" fill="#CBD5E1" fill-opacity=".11"/>
+    <text x="20" y="94" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="10">APIs • Workflows • Integrations</text>
+  </g>
+
+  <g transform="translate(516 112)">
+    <rect width="210" height="104" rx="16" fill="#0A1A2D" stroke="#0891B2" stroke-opacity=".72"/>
+    <text x="20" y="30" fill="#67E8F9" font-family="Segoe UI, Arial" font-size="11" font-weight="800" letter-spacing="1.1">DATA &amp; STATE</text>
+    <ellipse cx="44" cy="54" rx="18" ry="7" fill="#06B6D4" fill-opacity=".2" stroke="#22D3EE"/>
+    <path d="M26 54V69C26 73 34 76 44 76C54 76 62 73 62 69V54" stroke="#22D3EE"/>
+    <rect x="82" y="49" width="92" height="9" rx="4.5" fill="#CBD5E1" fill-opacity=".15"/>
+    <rect x="82" y="67" width="70" height="8" rx="4" fill="#CBD5E1" fill-opacity=".1"/>
+    <text x="20" y="94" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="10">Transactions • Migrations • Sync</text>
+  </g>
+
+  <g transform="translate(746 112)">
+    <rect width="210" height="104" rx="16" fill="#0F172A" stroke="#7C3AED" stroke-opacity=".72"/>
+    <text x="20" y="30" fill="#C4B5FD" font-family="Segoe UI, Arial" font-size="11" font-weight="800" letter-spacing="1.1">SECURITY BOUNDARY</text>
+    <path d="M36 47L54 54V66C54 76 46 83 36 88C26 83 18 76 18 66V54L36 47Z" fill="#8B5CF6" fill-opacity=".16" stroke="#A78BFA"/>
+    <path d="M30 66L35 71L44 60" stroke="#DDD6FE" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="78" y="51" width="98" height="9" rx="4.5" fill="#CBD5E1" fill-opacity=".14"/>
+    <rect x="78" y="68" width="76" height="8" rx="4" fill="#CBD5E1" fill-opacity=".1"/>
+    <text x="20" y="94" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="10">Auth • Permissions • Audit</text>
+  </g>
+
+  <g transform="translate(976 112)">
+    <rect width="168" height="104" rx="16" fill="#0F172A" stroke="#8B5CF6" stroke-opacity=".7"/>
+    <text x="20" y="30" fill="#DDD6FE" font-family="Segoe UI, Arial" font-size="11" font-weight="800" letter-spacing="1.1">DELIVERY</text>
+    <circle cx="34" cy="57" r="12" fill="#8B5CF6" fill-opacity=".16" stroke="#A78BFA"/>
+    <path d="M28 57H40M34 51V63" stroke="#DDD6FE" stroke-width="2"/>
+    <rect x="58" y="51" width="82" height="9" rx="4.5" fill="#CBD5E1" fill-opacity=".14"/>
+    <rect x="58" y="68" width="66" height="8" rx="4" fill="#CBD5E1" fill-opacity=".1"/>
+    <text x="20" y="94" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="10">CI/CD • Cloud • Verification</text>
+  </g>
+</g>
+
+<g>
+  <circle cx="276" cy="154" r="5" fill="#38BDF8"/>
+  <circle cx="506" cy="154" r="5" fill="#22D3EE"/>
+  <circle cx="736" cy="154" r="5" fill="#22D3EE"/>
+  <circle cx="966" cy="154" r="5" fill="#A78BFA"/>
+</g>
+
+<text x="600" y="263" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="11" letter-spacing="1.1">PRODUCT → LOGIC → DATA → SECURITY → DELIVERY</text>
+</svg>
