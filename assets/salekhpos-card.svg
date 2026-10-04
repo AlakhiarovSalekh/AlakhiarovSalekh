@@ -9,8 +9,8 @@
 </defs>
 <rect x="1" y="1" width="558" height="258" rx="20" fill="url(#bg)" stroke="#334155"/>
 <rect x="1" y="1" width="558" height="258" rx="20" fill="url(#glow)"/>
-<rect x="28" y="26" width="142" height="28" rx="14" fill="#7C3AED" fill-opacity=".14" stroke="#A78BFA" stroke-opacity=".38"/>
-<text x="99" y="45" text-anchor="middle" fill="#DDD6FE" font-family="Segoe UI, Arial" font-size="11" font-weight="700">PRIVATE • FOUNDATION</text>
+<rect x="28" y="26" width="132" height="28" rx="14" fill="#22C55E" fill-opacity=".12" stroke="#4ADE80" stroke-opacity=".42"/>
+<text x="94" y="45" text-anchor="middle" fill="#BBF7D0" font-family="Segoe UI, Arial" font-size="11" font-weight="700">PUBLIC • FOUNDATION</text>
 <text x="28" y="92" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="31" font-weight="800">SalekhPos</text>
 <text x="28" y="121" fill="#C4B5FD" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Multi-store Retail Platform</text>
 <text x="28" y="153" fill="#CBD5E1" font-family="Segoe UI, Arial" font-size="13">Enterprise-oriented backend and architecture foundation</text>
