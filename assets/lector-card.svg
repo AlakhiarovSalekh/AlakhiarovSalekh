@@ -1,0 +1,18 @@
+<svg width="560" height="230" viewBox="0 0 560 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="560" y2="230"><stop stop-color="#071426"/><stop offset="1" stop-color="#1C1734"/></linearGradient></defs>
+<rect x="1" y="1" width="558" height="228" rx="20" fill="url(#bg)" stroke="#334155"/>
+<rect x="28" y="25" width="76" height="26" rx="13" fill="#8B5CF6" fill-opacity=".13" stroke="#A78BFA" stroke-opacity=".35"/>
+<text x="66" y="43" text-anchor="middle" fill="#DDD6FE" font-family="Segoe UI, Arial" font-size="10" font-weight="700">PUBLIC</text>
+<text x="28" y="88" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="27" font-weight="800">Lector</text>
+<text x="28" y="117" fill="#C4B5FD" font-family="Segoe UI, Arial" font-size="14" font-weight="600">Private, offline Android text-to-speech reader</text>
+<text x="28" y="148" fill="#CBD5E1" font-family="Segoe UI, Arial" font-size="12.5">Kotlin • Jetpack Compose • PDF • EPUB • TTS</text>
+<text x="28" y="174" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="12">No ads, accounts, trackers, network access or cloud dependency.</text>
+<g transform="translate(431 57)">
+  <rect width="84" height="84" rx="18" fill="#1B1731" stroke="#8B5CF6"/>
+  <path d="M25 22H53C58 22 62 26 62 31V62H31C26 62 22 58 22 53V25C22 23.3 23.3 22 25 22Z" fill="#8B5CF6" fill-opacity=".16" stroke="#C4B5FD"/>
+  <path d="M31 34H53M31 42H53M31 50H47" stroke="#DDD6FE" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M58 48C63 51 66 55 66 60C66 65 63 69 58 72" stroke="#7DD3FC" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<rect x="28" y="194" width="112" height="24" rx="7" fill="#FFFFFF" fill-opacity=".06"/>
+<text x="84" y="210" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial" font-size="10.5" font-weight="600">ANDROID / KOTLIN</text>
+</svg>
