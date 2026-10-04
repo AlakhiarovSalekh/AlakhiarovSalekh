@@ -1,0 +1,18 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="150">
+    <stop stop-color="#07111F"/><stop offset=".5" stop-color="#0B1730"/><stop offset="1" stop-color="#11142A"/>
+  </linearGradient>
+  <linearGradient id="l" x1="330" y1="75" x2="870" y2="75">
+    <stop stop-color="#38BDF8" stop-opacity="0"/><stop offset=".25" stop-color="#38BDF8"/><stop offset=".75" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="150" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="148" rx="19" stroke="#334155"/>
+<path d="M160 75H1040" stroke="url(#l)" stroke-width="2"/>
+<circle cx="330" cy="75" r="5" fill="#38BDF8"/>
+<circle cx="600" cy="75" r="5" fill="#60A5FA"/>
+<circle cx="870" cy="75" r="5" fill="#8B5CF6"/>
+<text x="600" y="50" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial" font-size="14" font-weight="700" letter-spacing="4">BUILD • VERIFY • SHIP • IMPROVE</text>
+<text x="600" y="112" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial" font-size="12" letter-spacing="2">github.com/AlakhiarovSalekh</text>
+</svg>
