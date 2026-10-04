@@ -1,118 +1,354 @@
-<h1 align="center">Salekh Alakhiarov</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Software Engineer • Mobile Developer • Desktop Application Developer
-</h3>
+<img src="./assets/header.svg" width="100%" alt="Salekh Alakhiarov — Full-Stack Software Engineer" />
 
-<p align="center">
-I build modern, scalable and high-performance software solutions for Web, Android, iOS and Desktop platforms.
-</p>
+<br />
 
-<p align="center">
-3+ Years of Software Development Experience
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Web+%E2%80%A2+Backend+%E2%80%A2+Desktop+%E2%80%A2+Mobile+%E2%80%A2+Cloud;Secure+systems+%E2%80%A2+Product+engineering+%E2%80%A2+Reliable+delivery" alt="Typing SVG" />
+</a>
 
----
+<br />
 
-# 💻 Technology Stack
+<a href="https://www.linkedin.com/in/salekhalakhiarov/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:salekh.alakhiarov968@hum.tsu.edu.ge">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/AlakhiarovSalekh?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+<img src="https://img.shields.io/badge/Tbilisi-Georgia-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Tbilisi, Georgia" />
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-166534?style=for-the-badge&logo=remote&logoColor=white" alt="Open to remote opportunities" />
 
-<h2>Programming Languages</h2>
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-<h2>Frontend Development</h2>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-<h2>Backend Development</h2>
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-<h2>📱 Mobile Development</h2>
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
-<h2>🖥️ Desktop Development</h2>
-<p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-</p>
-<h2>Database</h2>
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I'm a software engineer with over 3 years of experience building applications across multiple platforms.
+<table>
+<tr>
+<td width="57%" valign="top">
 
-My primary focus is designing and developing modern web applications, mobile applications for Android and iOS, and desktop software solutions. I enjoy transforming ideas into reliable products through clean code, scalable architecture, and continuous learning.
+I'm a **Full-Stack Software Engineer** with **3+ years of software development experience**, building end-to-end software across **web, backend, desktop, mobile, databases, and cloud infrastructure**.
 
-I am passionate about software engineering, user experience, system design, and creating technology that solves real-world problems.
+I care about the parts of engineering that make software dependable after the demo: **architecture, security, data integrity, offline behavior, authorization, performance, testing, deployment, and maintainability**.
+
+My work spans product interfaces, APIs, authentication systems, relational databases, encrypted local storage, SaaS control planes, billing integrations, desktop applications, mobile apps, and CI/CD.
+
+### What I optimize for
+
+- **Complete product ownership** — from UI and API contracts to data and deployment
+- **Security by design** — authentication, authorization, session safety, data boundaries
+- **Reliable data** — transactions, migrations, audit trails, idempotency, consistency
+- **Offline-first systems** — local persistence, synchronization, recovery, resilience
+- **Maintainable architecture** — clear boundaries, testability, typed contracts
+- **Production discipline** — automated checks, CI/CD, release verification
+
+</td>
+<td width="43%" valign="top" align="center">
+
+<img src="./assets/engineering.svg" width="100%" alt="Full-stack system architecture illustration" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Professional Focus
+## Engineering Snapshot
 
-🔹 Full Stack Web Development
-
-🔹 Cross-Platform Mobile Applications
-
-🔹 Native Android Development
-
-🔹 Native iOS Development
-
-🔹 Desktop Software Engineering
-
-🔹 API Design & Integration
-
-🔹 Database Design & Optimization
-
-🔹 Scalable Software Architecture
+| Area | What I work on |
+|---|---|
+| **Full-Stack Product Engineering** | End-to-end product development across frontend, backend, data, integrations, and delivery |
+| **Backend & API Architecture** | REST APIs, authentication, authorization, sessions, business workflows, external integrations |
+| **Desktop & Offline Systems** | Cross-platform desktop applications, encrypted local databases, offline workflows, sync and recovery |
+| **Cloud & SaaS Infrastructure** | Cloud APIs, account systems, subscriptions, entitlements, webhooks, admin control planes |
+| **Database Engineering** | PostgreSQL, SQLite / SQLCipher, schema design, migrations, transactional workflows, access boundaries |
+| **Security Engineering** | RBAC, scoped permissions, RLS, replay/idempotency protections, audit trails, secure secret handling |
+| **Delivery & Quality** | Type safety, automated tests, GitHub Actions, CI/CD, build verification and release discipline |
 
 ---
 
-# 📌 Featured Projects
+## Technology Stack
 
-### Web Applications
+<div align="center">
 
-Modern web platforms with responsive interfaces, backend integrations, authentication systems and database-driven architectures.
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,nodejs,rust,tauri,cs,dotnet,python&perline=11" alt="Primary technologies" />
 
-### Mobile Applications
+<br />
 
-Cross-platform and native mobile applications focused on performance, usability and scalability.
+<img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,c,postgres,mysql,sqlite,mongodb,docker,git,github&perline=11" alt="Additional technologies" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,cloudflare,npm,vscode,visualstudio,androidstudio&perline=8" alt="Tools and platforms" />
+
+</div>
+
+### Primary engineering stack
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Svelte, HTML, CSS, Tailwind CSS |
+| **Backend** | Node.js, REST APIs, ASP.NET Core / .NET, Python |
+| **Desktop / Systems** | Rust, Tauri, C#, C++, Swift, AppKit, SwiftUI |
+| **Mobile** | Kotlin, Android, Jetpack Compose |
+| **Databases** | PostgreSQL, SQLite, SQLCipher, MySQL, MongoDB |
+| **Cloud / Delivery** | Cloudflare, Docker, GitHub Actions, CI/CD |
+| **Product Infrastructure** | Authentication, authorization, sessions, billing, entitlements, webhooks, audit logging |
+
+<details>
+<summary><b>More technologies I've worked with</b></summary>
+
+<br />
+
+Java, PHP, Express.js, PyQt5, Bootstrap, jQuery, Ajax, Android native APIs, local persistence, payment integrations, localization, background workflows, and cross-platform application architecture.
+
+</details>
+
+---
+
+## Current Product Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="./assets/1kassir-card.svg" width="100%" alt="1Kassir project card" />
+
+### 1Kassir
+
+A **desktop-first Point-of-Sale and SaaS platform** being built for small shops, combining secure local retail operations with a cloud control plane.
+
+**Selected engineering areas**
+
+- Tauri 2 + Rust desktop architecture
+- Svelte 5 / TypeScript application UI
+- SQLCipher encrypted local database
+- Offline sales, inventory, returns, receipts and cash sessions
+- Device-bound authorization and entitlement enforcement
+- Next.js website and account experience
+- Cloudflare control-plane APIs and data
+- Paddle subscription and webhook lifecycle
+- Authentication, session rotation, audit history and account security
+- Automated TypeScript / Rust verification in CI
+
+**Status:** Private repository · Active development
+
+</td>
+<td width="50%" valign="top">
+
+<img src="./assets/salekhpos-card.svg" width="100%" alt="SalekhPos project card" />
+
+### SalekhPos
+
+A larger **multi-store retail platform architecture** focused on secure organization, branch, identity, authorization and data foundations.
+
+**Implemented foundation includes**
+
+- .NET / ASP.NET Core backend
+- PostgreSQL data architecture
+- Row-Level Security boundaries
+- JWT-protected scoped access
+- Organization / branch models
+- Membership and permission scopes
+- Durable token revocation
+- Immutable audit records
+- Protected root-authority administration
+- Integration and HTTP verification
+
+**Status:** Private repository · Architecture / backend foundation
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Public Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/AlakhiarovSalekh/SalekhPortfolio">
+  <img src="./assets/portfolio-card.svg" width="100%" alt="Developer Portfolio project" />
+</a>
+
+**Developer Portfolio**  
+A multilingual, production-oriented portfolio foundation with **Next.js, TypeScript, Supabase, PostgreSQL, RLS, localized case studies, and protected admin architecture**.
+
+<a href="https://github.com/AlakhiarovSalekh/SalekhPortfolio"><b>Explore repository →</b></a>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/AlakhiarovSalekh/Sticky-Notes-macOS-">
+  <img src="./assets/stickynotes-card.svg" width="100%" alt="Sticky Notes macOS project" />
+</a>
+
+**Sticky Notes for macOS**  
+A native macOS utility built with **Swift, AppKit and SwiftUI**, featuring rich text, autosave, restoration, multi-monitor protection and eight OS-inspired themes.
+
+<a href="https://github.com/AlakhiarovSalekh/Sticky-Notes-macOS-"><b>Explore repository →</b></a>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/AlakhiarovSalekh/Lector">
+  <img src="./assets/lector-card.svg" width="100%" alt="Lector Android project" />
+</a>
+
+**Lector**  
+A private-by-design offline Android reader using **Kotlin and Jetpack Compose** for TXT, Markdown, EPUB and PDF text-to-speech workflows without ads, accounts or network access.
+
+<a href="https://github.com/AlakhiarovSalekh/Lector"><b>Explore repository →</b></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/AlakhiarovSalekh?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-All%20Public%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
+
+</div>
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Web Platforms
+Responsive applications, account systems, admin experiences, authentication, localization, SEO, APIs and database-backed workflows.
+
+</td>
+<td width="33%" valign="top">
+
+### Backend Systems
+Secure APIs, authorization, transactional business logic, relational data, webhooks, auditability and third-party integrations.
+
+</td>
+<td width="33%" valign="top">
 
 ### Desktop Software
+Cross-platform and native applications with local persistence, offline behavior, encrypted data, printing and business workflows.
 
-Robust desktop solutions designed for productivity, automation and business workflows.
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### Mobile Apps
+Native Android and Apple-platform applications focused on usability, offline functionality and platform-native capabilities.
+
+</td>
+<td width="33%" valign="top">
+
+### SaaS Infrastructure
+Accounts, subscriptions, trials, feature entitlements, device management, customer portals and lifecycle automation.
+
+</td>
+<td width="33%" valign="top">
+
+### Engineering Foundations
+Architecture, security boundaries, CI/CD, tests, migrations, performance, recovery and maintainability.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 Connect With Me
+## GitHub Analytics
 
-<p> <a href="mailto:salekh.alakhiarov968@hum.tsu.edu.ge">📧 Email</a><br> <a href="https://www.linkedin.com/in/salekhalakhiarov/">💼 LinkedIn</a><br> <a href="https://github.com/SALEKH7">🐙 GitHub</a> </p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AlakhiarovSalekh&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8&icon_color=A78BFA" alt="Salekh's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlakhiarovSalekh&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Salekh's top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=AlakhiarovSalekh&theme=transparent&hide_border=true&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub contribution streak" />
+
+</div>
+
+### Development Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlakhiarovSalekh&bg_color=00000000&color=94A3B8&line=38BDF8&point=A78BFA&area=true&area_color=0EA5E9&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## Engineering Principles
+
+```text
+01  Security is part of the architecture, not a final checklist.
+02  Data integrity matters more than optimistic UI.
+03  Offline behavior should be designed, not improvised.
+04  Authorization belongs at trusted boundaries.
+05  Critical writes should be transactional and idempotent.
+06  Tests and CI are part of delivery, not optional polish.
+07  Maintainability is a product feature for the next engineer.
+08  Build the smallest system that can remain correct as it grows.
+```
+
+---
+
+## Current Focus
+
+I'm currently focused on building **production-oriented retail and SaaS software**, with particular attention to:
+
+- cross-platform desktop engineering
+- secure authentication and authorization
+- offline-first transactional systems
+- relational database architecture
+- subscription and entitlement infrastructure
+- cloud APIs and deployment
+- application security
+- system design and distributed-system fundamentals
+
+I'm also open to **remote Full-Stack Software Engineer, Software Engineer, Backend Engineer, and Product Engineer opportunities** where I can contribute across the complete product lifecycle.
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+### Have an engineering opportunity, project, or product to discuss?
+
+<br />
+
+<a href="https://www.linkedin.com/in/salekhalakhiarov/">
+  <img src="https://img.shields.io/badge/LinkedIn-Salekh%20Alakhiarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:salekh.alakhiarov968@hum.tsu.edu.ge">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/AlakhiarovSalekh">
+  <img src="https://img.shields.io/badge/GitHub-AlakhiarovSalekh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+<br /><br />
+
+**Based in Tbilisi, Georgia · Open to remote opportunities worldwide**
+
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="Build, verify, ship, improve" />
+
+</div>
+
+<!-- Profile README redesigned 2026-10-04 -->
