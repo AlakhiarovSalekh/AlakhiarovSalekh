@@ -141,7 +141,9 @@ A **desktop-first Point-of-Sale and SaaS platform** being built for small shops,
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/salekhpos-card.svg" width="100%" alt="SalekhPos project card" />
+<a href="https://github.com/AlakhiarovSalekh/SalekhPos">
+  <img src="./assets/salekhpos-card.svg" width="100%" alt="SalekhPos project card" />
+</a>
 
 ### SalekhPos
 
@@ -160,7 +162,9 @@ A larger **multi-store retail platform architecture** focused on secure organiza
 - Protected root-authority administration
 - Integration and HTTP verification
 
-**Status:** Private repository · Architecture / backend foundation
+**Status:** Public repository · Architecture / backend foundation
+
+<a href="https://github.com/AlakhiarovSalekh/SalekhPos"><b>Explore SalekhPos repository →</b></a>
 
 </td>
 </tr>
@@ -278,14 +282,6 @@ Architecture, security boundaries, CI/CD, tests, migrations, performance, recove
 <br />
 
 <img src="https://streak-stats.demolab.com?user=AlakhiarovSalekh&theme=transparent&hide_border=true&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub contribution streak" />
-
-</div>
-
-### Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlakhiarovSalekh&bg_color=00000000&color=94A3B8&line=38BDF8&point=A78BFA&area=true&area_color=0EA5E9&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
