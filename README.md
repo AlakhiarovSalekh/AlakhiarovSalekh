@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Salekh Alakhiarov — Full-Stack Software Engineer" />
+<img src="./assets/header.svg" width="100%" alt="Salekh Alakhiarov — Software Engineer" />
 
 <br />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Web+%E2%80%A2+Backend+%E2%80%A2+Desktop+%E2%80%A2+Mobile+%E2%80%A2+Cloud;Secure+systems+%E2%80%A2+Product+engineering+%E2%80%A2+Reliable+delivery" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Web+%E2%80%A2+Backend+%E2%80%A2+Desktop+%E2%80%A2+Mobile+%E2%80%A2+Cloud;Secure+systems+%E2%80%A2+Reliable+data+%E2%80%A2+Production+delivery" alt="Animated engineering focus" />
 
-<br />
+<br /><br />
 
 <a href="https://www.linkedin.com/in/salekhalakhiarov/">
   <img src="./assets/linkedin-button.svg" width="190" alt="LinkedIn" />
@@ -22,7 +20,7 @@
 
 <br /><br />
 
-<sub><b>Tbilisi, Georgia</b> &nbsp;•&nbsp; Open to remote opportunities worldwide</sub>
+<b>Tbilisi, Georgia</b> &nbsp;•&nbsp; Open to remote opportunities worldwide
 
 </div>
 
@@ -32,36 +30,18 @@
 
 I'm a **Full-Stack Software Engineer** with **3+ years of software development experience**, building end-to-end software across **web, backend, desktop, mobile, databases, and cloud infrastructure**.
 
-I focus on the parts of engineering that determine whether software remains reliable beyond the demo: **architecture, security, data integrity, offline behavior, authorization, performance, testing, deployment, and maintainability**. My work spans product interfaces, APIs, authentication systems, relational databases, encrypted local storage, SaaS control planes, billing integrations, desktop applications, mobile apps, and CI/CD.
+I focus on the engineering details that determine whether software remains dependable after the demo: **architecture, security, data integrity, offline behavior, authorization, performance, testing, deployment, and maintainability**.
 
-<div align="center">
-
-<img src="./assets/engineering-wide.svg" width="100%" alt="Product engineering architecture — product, application, data, security and delivery layers" />
-
-</div>
+My work spans product interfaces, REST APIs, authentication and session systems, relational databases, encrypted local storage, SaaS control planes, billing integrations, native and cross-platform desktop applications, Android apps, and CI/CD.
 
 ### What I optimize for
 
-- **Complete product ownership** — from UI and API contracts to data, infrastructure, and deployment
-- **Security by design** — authentication, authorization, session safety, trusted boundaries, and auditability
-- **Reliable data** — transactions, migrations, idempotency, consistency, recovery, and durable history
-- **Offline-first systems** — local persistence, synchronization, conflict-safe workflows, and resilience
-- **Maintainable architecture** — typed contracts, clear boundaries, testability, and predictable evolution
-- **Production discipline** — automated checks, CI/CD, release verification, and operational readiness
-
----
-
-## Engineering Snapshot
-
-| Area | What I work on |
-|---|---|
-| **Full-Stack Product Engineering** | End-to-end product development across frontend, backend, data, integrations, and delivery |
-| **Backend & API Architecture** | REST APIs, authentication, authorization, sessions, business workflows, external integrations |
-| **Desktop & Offline Systems** | Cross-platform desktop applications, encrypted local databases, offline workflows, sync and recovery |
-| **Cloud & SaaS Infrastructure** | Cloud APIs, account systems, subscriptions, entitlements, webhooks, admin control planes |
-| **Database Engineering** | PostgreSQL, SQLite / SQLCipher, schema design, migrations, transactional workflows, access boundaries |
-| **Security Engineering** | RBAC, scoped permissions, RLS, replay/idempotency protections, audit trails, secure secret handling |
-| **Delivery & Quality** | Type safety, automated tests, GitHub Actions, CI/CD, build verification and release discipline |
+- **Complete product ownership** — UI, APIs, data, infrastructure, deployment
+- **Security by design** — authentication, authorization, trusted boundaries, auditability
+- **Reliable data** — transactions, migrations, idempotency, recovery, durable history
+- **Offline-first systems** — local persistence, synchronization, resilience, safe workflows
+- **Maintainable architecture** — typed contracts, clear boundaries, testability
+- **Production discipline** — automated checks, CI/CD, release verification
 
 ---
 
@@ -81,8 +61,6 @@ I focus on the parts of engineering that determine whether software remains reli
 
 </div>
 
-### Primary engineering stack
-
 | Layer | Technologies |
 |---|---|
 | **Frontend** | TypeScript, JavaScript, React, Next.js, Svelte, HTML, CSS, Tailwind CSS |
@@ -94,125 +72,130 @@ I focus on the parts of engineering that determine whether software remains reli
 | **Product Infrastructure** | Authentication, authorization, sessions, billing, entitlements, webhooks, audit logging |
 
 <details>
-<summary><b>More technologies I've worked with</b></summary>
+<summary><b>Additional technologies I've worked with</b></summary>
 
 <br />
 
-Java, PHP, Express.js, PyQt5, Bootstrap, jQuery, Ajax, Android native APIs, local persistence, payment integrations, localization, background workflows, and cross-platform application architecture.
+Java, PHP, Express.js, PyQt5, Bootstrap, jQuery, Ajax, Android native APIs, payment integrations, localization, background workflows, and cross-platform application architecture.
 
 </details>
 
 ---
 
-## Current Product Work
+# Featured Engineering Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 1Kassir — Desktop POS + SaaS Platform
 
-<img src="./assets/1kassir-card.svg" width="100%" alt="1Kassir project card" />
+A **desktop-first Point-of-Sale and SaaS platform** for small shops, combining secure local retail workflows with a cloud control plane.
 
-### 1Kassir
-
-A **desktop-first Point-of-Sale and SaaS platform** being built for small shops, combining secure local retail operations with a cloud control plane.
-
-**Selected engineering areas**
-
+**Core engineering work**
 - Tauri 2 + Rust desktop architecture
-- Svelte 5 / TypeScript application UI
+- Svelte 5 + TypeScript application UI
 - SQLCipher encrypted local database
-- Offline sales, inventory, returns, receipts and cash sessions
-- Device-bound authorization and entitlement enforcement
-- Next.js website and account experience
-- Cloudflare control-plane APIs and data
+- Offline sales, inventory, returns, receipts, cash sessions and synchronization
+- Local users, roles and permission enforcement
+- Device-bound authorization and entitlements
+- Next.js account / website experience
+- Cloudflare control-plane APIs
 - Paddle subscription and webhook lifecycle
-- Authentication, session rotation, audit history and account security
+- Session rotation, audit history and account security
 - Automated TypeScript / Rust verification in CI
 
+**Stack:** Rust · Tauri · Svelte · TypeScript · SQLite / SQLCipher · Next.js · Cloudflare · Paddle  
 **Status:** Private repository · Active development
 
-</td>
-<td width="50%" valign="top">
+---
 
-<a href="https://github.com/AlakhiarovSalekh/SalekhPos">
-  <img src="./assets/salekhpos-card.svg" width="100%" alt="SalekhPos project card" />
-</a>
+## SalekhPos — Multi-store Retail Platform
 
-### SalekhPos
+A larger retail platform foundation focused on **multi-store architecture, secure authorization, branch isolation, identity, auditability, and reliable data boundaries**.
 
-A larger **multi-store retail platform architecture** focused on secure organization, branch, identity, authorization and data foundations.
-
-**Implemented foundation includes**
-
+**Implemented foundation**
 - .NET / ASP.NET Core backend
 - PostgreSQL data architecture
 - Row-Level Security boundaries
 - JWT-protected scoped access
-- Organization / branch models
+- Organization and branch models
 - Membership and permission scopes
-- Durable token revocation
+- Durable current-token revocation
 - Immutable audit records
-- Protected root-authority administration
-- Integration and HTTP verification
+- Root-authority administration model
+- Real PostgreSQL integration verification
 
-**Status:** Public repository · Architecture / backend foundation
-
-<a href="https://github.com/AlakhiarovSalekh/SalekhPos"><b>Explore SalekhPos repository →</b></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected Public Work
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<a href="https://github.com/AlakhiarovSalekh/SalekhPortfolio">
-  <img src="./assets/portfolio-card.svg" width="100%" alt="Developer Portfolio project" />
-</a>
-
-**Developer Portfolio**  
-A multilingual, production-oriented portfolio foundation with **Next.js, TypeScript, Supabase, PostgreSQL, RLS, localized case studies, and protected admin architecture**.
-
-<a href="https://github.com/AlakhiarovSalekh/SalekhPortfolio"><b>Explore repository →</b></a>
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://github.com/AlakhiarovSalekh/Sticky-Notes-macOS-">
-  <img src="./assets/stickynotes-card.svg" width="100%" alt="Sticky Notes macOS project" />
-</a>
-
-**Sticky Notes for macOS**  
-A native macOS utility built with **Swift, AppKit and SwiftUI**, featuring rich text, autosave, restoration, multi-monitor protection and eight OS-inspired themes.
-
-<a href="https://github.com/AlakhiarovSalekh/Sticky-Notes-macOS-"><b>Explore repository →</b></a>
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://github.com/AlakhiarovSalekh/Lector">
-  <img src="./assets/lector-card.svg" width="100%" alt="Lector Android project" />
-</a>
-
-**Lector**  
-A private-by-design offline Android reader using **Kotlin and Jetpack Compose** for TXT, Markdown, EPUB and PDF text-to-speech workflows without ads, accounts or network access.
-
-<a href="https://github.com/AlakhiarovSalekh/Lector"><b>Explore repository →</b></a>
-
-</td>
-</tr>
-</table>
+**Stack:** C# · .NET · ASP.NET Core · PostgreSQL · Docker · TypeScript
 
 <div align="center">
 
-<a href="https://github.com/AlakhiarovSalekh?tab=repositories">
-  <img src="./assets/repositories-button.svg" width="420" alt="View all public repositories" />
+### [Explore SalekhPos →](https://github.com/AlakhiarovSalekh/SalekhPos)
+
+</div>
+
+---
+
+# Real Product Screenshots
+
+These are screenshots from my actual public projects — not generated mockups.
+
+## Sticky Notes for macOS
+
+Native macOS sticky notes built with **Swift, AppKit and SwiftUI**, with rich text, autosave, state restoration, multi-monitor handling and multiple OS-inspired visual themes.
+
+<a href="https://github.com/AlakhiarovSalekh/Sticky-Notes-macOS-">
+  <img src="https://raw.githubusercontent.com/AlakhiarovSalekh/Sticky-Notes-macOS-/main/docs/themes.png" width="100%" alt="Sticky Notes for macOS — real project screenshot" />
 </a>
+
+<div align="center">
+
+### [Explore Sticky Notes for macOS →](https://github.com/AlakhiarovSalekh/Sticky-Notes-macOS-)
+
+</div>
+
+---
+
+## Lector — Offline Android Reader
+
+A private-by-design Android reader built with **Kotlin and Jetpack Compose** for TXT, Markdown, EPUB and PDF text-to-speech workflows. It is designed to work without ads, accounts, trackers, or network access.
+
+<div align="center">
+
+<a href="https://github.com/AlakhiarovSalekh/Lector">
+  <img src="https://raw.githubusercontent.com/AlakhiarovSalekh/Lector/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="360" alt="Lector Android app — real screenshot" />
+</a>
+
+</div>
+
+<details>
+<summary><b>More Lector screenshots</b></summary>
+
+<br />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AlakhiarovSalekh/Lector/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="360" alt="Lector screenshot 2" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/AlakhiarovSalekh/Lector/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="360" alt="Lector screenshot 3" />
+
+</div>
+
+</details>
+
+<div align="center">
+
+### [Explore Lector →](https://github.com/AlakhiarovSalekh/Lector)
+
+</div>
+
+---
+
+## Developer Portfolio
+
+A multilingual portfolio foundation built with **Next.js, TypeScript, Supabase and PostgreSQL**, including localized case studies, a protected admin architecture and Row-Level Security.
+
+<div align="center">
+
+### [Explore the portfolio repository →](https://github.com/AlakhiarovSalekh/SalekhPortfolio)
 
 </div>
 
@@ -220,48 +203,29 @@ A private-by-design offline Android reader using **Kotlin and Jetpack Compose** 
 
 ## What I Build
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
 ### Web Platforms
-Responsive applications, account systems, admin experiences, authentication, localization, SEO, APIs and database-backed workflows.
-
-</td>
-<td width="33%" valign="top">
+Responsive product interfaces, account systems, admin experiences, authentication, localization, SEO, APIs and database-backed workflows.
 
 ### Backend Systems
 Secure APIs, authorization, transactional business logic, relational data, webhooks, auditability and third-party integrations.
 
-</td>
-<td width="33%" valign="top">
-
 ### Desktop Software
 Cross-platform and native applications with local persistence, offline behavior, encrypted data, printing and business workflows.
 
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### Mobile Apps
+### Mobile Applications
 Native Android and Apple-platform applications focused on usability, offline functionality and platform-native capabilities.
-
-</td>
-<td width="33%" valign="top">
 
 ### SaaS Infrastructure
 Accounts, subscriptions, trials, feature entitlements, device management, customer portals and lifecycle automation.
 
-</td>
-<td width="33%" valign="top">
-
 ### Engineering Foundations
 Architecture, security boundaries, CI/CD, tests, migrations, performance, recovery and maintainability.
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+### [View all public repositories →](https://github.com/AlakhiarovSalekh?tab=repositories)
+
+</div>
 
 ---
 
@@ -270,6 +234,7 @@ Architecture, security boundaries, CI/CD, tests, migrations, performance, recove
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlakhiarovSalekh&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8&icon_color=A78BFA" alt="Salekh's GitHub stats" />
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlakhiarovSalekh&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Salekh's top languages" />
 
 <br />
@@ -297,7 +262,7 @@ Architecture, security boundaries, CI/CD, tests, migrations, performance, recove
 
 ## Current Focus
 
-I'm currently focused on building **production-oriented retail and SaaS software**, with particular attention to:
+Currently focused on **production-oriented retail and SaaS software**, with particular attention to:
 
 - cross-platform desktop engineering
 - secure authentication and authorization
@@ -308,7 +273,7 @@ I'm currently focused on building **production-oriented retail and SaaS software
 - application security
 - system design and distributed-system fundamentals
 
-I'm also open to **remote Full-Stack Software Engineer, Software Engineer, Backend Engineer, and Product Engineer opportunities** where I can contribute across the complete product lifecycle.
+I'm open to **remote Full-Stack Software Engineer, Software Engineer, Backend Engineer, and Product Engineer opportunities** where I can contribute across the complete product lifecycle.
 
 ---
 
@@ -332,11 +297,7 @@ I'm also open to **remote Full-Stack Software Engineer, Software Engineer, Backe
 
 <br /><br />
 
-<sub>Tbilisi, Georgia &nbsp;•&nbsp; Open to remote opportunities worldwide</sub>
-
-<br />
-
-<img src="./assets/footer.svg" width="100%" alt="Build, verify, ship, improve" />
+<b>Tbilisi, Georgia</b> &nbsp;•&nbsp; Open to remote opportunities worldwide
 
 </div>
 
