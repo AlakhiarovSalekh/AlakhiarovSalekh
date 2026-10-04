@@ -33,7 +33,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Software Engineer** with **3+ years of software development experience**, building end-to-end software across **web, backend, desktop, mobile, databases, and cloud infrastructure**.
+I'm a **Full-Stack Software Engineer** with **5+ years of software development experience**, building end-to-end software across **web, backend, desktop, mobile, databases, and cloud infrastructure**.
 
 I focus on the parts of engineering that determine whether software remains reliable beyond the demo: **architecture, security, data integrity, offline behavior, authorization, performance, testing, deployment, and maintainability**. My work spans product interfaces, APIs, authentication systems, relational databases, encrypted local storage, SaaS control planes, billing integrations, desktop applications, mobile apps, and CI/CD.
 
