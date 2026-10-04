@@ -11,15 +11,13 @@
 <br />
 
 <a href="https://www.linkedin.com/in/salekhalakhiarov/">
-  <img height="34" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="./assets/linkedin-button.svg" width="190" alt="LinkedIn" />
 </a>
-&nbsp;
 <a href="mailto:salekh.alakhiarov968@hum.tsu.edu.ge">
-  <img height="34" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="./assets/email-button.svg" width="190" alt="Email" />
 </a>
-&nbsp;
 <a href="https://github.com/AlakhiarovSalekh?tab=repositories">
-  <img height="34" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="./assets/github-button.svg" width="190" alt="GitHub" />
 </a>
 
 <br /><br />
@@ -323,15 +321,13 @@ I'm also open to **remote Full-Stack Software Engineer, Software Engineer, Backe
 <br />
 
 <a href="https://www.linkedin.com/in/salekhalakhiarov/">
-  <img height="34" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="./assets/linkedin-button.svg" width="190" alt="LinkedIn" />
 </a>
-&nbsp;
 <a href="mailto:salekh.alakhiarov968@hum.tsu.edu.ge">
-  <img height="34" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="./assets/email-button.svg" width="190" alt="Email" />
 </a>
-&nbsp;
 <a href="https://github.com/AlakhiarovSalekh">
-  <img height="34" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="./assets/github-button.svg" width="190" alt="GitHub" />
 </a>
 
 <br /><br />
