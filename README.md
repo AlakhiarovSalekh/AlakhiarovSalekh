@@ -32,33 +32,24 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="57%" valign="top">
-
 I'm a **Full-Stack Software Engineer** with **3+ years of software development experience**, building end-to-end software across **web, backend, desktop, mobile, databases, and cloud infrastructure**.
 
-I care about the parts of engineering that make software dependable after the demo: **architecture, security, data integrity, offline behavior, authorization, performance, testing, deployment, and maintainability**.
+I focus on the parts of engineering that determine whether software remains reliable beyond the demo: **architecture, security, data integrity, offline behavior, authorization, performance, testing, deployment, and maintainability**. My work spans product interfaces, APIs, authentication systems, relational databases, encrypted local storage, SaaS control planes, billing integrations, desktop applications, mobile apps, and CI/CD.
 
-My work spans product interfaces, APIs, authentication systems, relational databases, encrypted local storage, SaaS control planes, billing integrations, desktop applications, mobile apps, and CI/CD.
+<div align="center">
+
+<img src="./assets/engineering-wide.svg" width="100%" alt="Product engineering architecture — product, application, data, security and delivery layers" />
+
+</div>
 
 ### What I optimize for
 
-- **Complete product ownership** — from UI and API contracts to data and deployment
-- **Security by design** — authentication, authorization, session safety, data boundaries
-- **Reliable data** — transactions, migrations, audit trails, idempotency, consistency
-- **Offline-first systems** — local persistence, synchronization, recovery, resilience
-- **Maintainable architecture** — clear boundaries, testability, typed contracts
-- **Production discipline** — automated checks, CI/CD, release verification
-
-</td>
-<td width="43%" valign="top" align="center">
-
-<img src="./assets/engineering.svg" width="100%" alt="Full-stack system architecture illustration" />
-
-</td>
-</tr>
-</table>
+- **Complete product ownership** — from UI and API contracts to data, infrastructure, and deployment
+- **Security by design** — authentication, authorization, session safety, trusted boundaries, and auditability
+- **Reliable data** — transactions, migrations, idempotency, consistency, recovery, and durable history
+- **Offline-first systems** — local persistence, synchronization, conflict-safe workflows, and resilience
+- **Maintainable architecture** — typed contracts, clear boundaries, testability, and predictable evolution
+- **Production discipline** — automated checks, CI/CD, release verification, and operational readiness
 
 ---
 
@@ -222,7 +213,7 @@ A private-by-design offline Android reader using **Kotlin and Jetpack Compose** 
 <div align="center">
 
 <a href="https://github.com/AlakhiarovSalekh?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Public%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  <img src="./assets/repositories-button.svg" width="420" alt="View all public repositories" />
 </a>
 
 </div>
