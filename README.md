@@ -11,16 +11,20 @@
 <br />
 
 <a href="https://www.linkedin.com/in/salekhalakhiarov/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="mailto:salekh.alakhiarov968@hum.tsu.edu.ge">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
+&nbsp;
 <a href="https://github.com/AlakhiarovSalekh?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/Tbilisi-Georgia-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Tbilisi, Georgia" />
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-166534?style=for-the-badge&logo=remote&logoColor=white" alt="Open to remote opportunities" />
+
+<br /><br />
+
+<sub><b>Tbilisi, Georgia</b> &nbsp;•&nbsp; Open to remote opportunities worldwide</sub>
 
 </div>
 
@@ -328,18 +332,20 @@ I'm also open to **remote Full-Stack Software Engineer, Software Engineer, Backe
 <br />
 
 <a href="https://www.linkedin.com/in/salekhalakhiarov/">
-  <img src="https://img.shields.io/badge/LinkedIn-Salekh%20Alakhiarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="mailto:salekh.alakhiarov968@hum.tsu.edu.ge">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
+&nbsp;
 <a href="https://github.com/AlakhiarovSalekh">
-  <img src="https://img.shields.io/badge/GitHub-AlakhiarovSalekh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br /><br />
 
-**Based in Tbilisi, Georgia · Open to remote opportunities worldwide**
+<sub>Tbilisi, Georgia &nbsp;•&nbsp; Open to remote opportunities worldwide</sub>
 
 <br />
 
