@@ -1,0 +1,31 @@
+<svg width="560" height="260" viewBox="0 0 560 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="560" y2="260">
+    <stop stop-color="#0B1020"/><stop offset="1" stop-color="#24113A"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(500 25) rotate(140) scale(320 230)">
+    <stop stop-color="#7C3AED" stop-opacity=".38"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect x="1" y="1" width="558" height="258" rx="20" fill="url(#bg)" stroke="#334155"/>
+<rect x="1" y="1" width="558" height="258" rx="20" fill="url(#glow)"/>
+<rect x="28" y="26" width="142" height="28" rx="14" fill="#7C3AED" fill-opacity=".14" stroke="#A78BFA" stroke-opacity=".38"/>
+<text x="99" y="45" text-anchor="middle" fill="#DDD6FE" font-family="Segoe UI, Arial" font-size="11" font-weight="700">PRIVATE • FOUNDATION</text>
+<text x="28" y="92" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="31" font-weight="800">SalekhPos</text>
+<text x="28" y="121" fill="#C4B5FD" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Multi-store Retail Platform</text>
+<text x="28" y="153" fill="#CBD5E1" font-family="Segoe UI, Arial" font-size="13">Enterprise-oriented backend and architecture foundation</text>
+<text x="28" y="174" fill="#CBD5E1" font-family="Segoe UI, Arial" font-size="13">for secure, multi-tenant retail operations.</text>
+<g transform="translate(28 204)">
+  <rect width="62" height="28" rx="8" fill="#FFFFFF" fill-opacity=".06"/><text x="31" y="18" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial" font-size="11">.NET</text>
+  <rect x="70" width="102" height="28" rx="8" fill="#FFFFFF" fill-opacity=".06"/><text x="121" y="18" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial" font-size="11">PostgreSQL</text>
+  <rect x="180" width="64" height="28" rx="8" fill="#FFFFFF" fill-opacity=".06"/><text x="212" y="18" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial" font-size="11">RLS</text>
+  <rect x="252" width="62" height="28" rx="8" fill="#FFFFFF" fill-opacity=".06"/><text x="283" y="18" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial" font-size="11">JWT</text>
+  <rect x="322" width="72" height="28" rx="8" fill="#FFFFFF" fill-opacity=".06"/><text x="358" y="18" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial" font-size="11">Docker</text>
+</g>
+<g transform="translate(434 79)">
+  <rect width="80" height="80" rx="18" fill="#18122A" stroke="#8B5CF6"/>
+  <rect x="20" y="20" width="40" height="40" rx="8" fill="#8B5CF6" fill-opacity=".14" stroke="#A78BFA"/>
+  <path d="M30 33H50M30 40H50M30 47H44" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="56" cy="57" r="8" fill="#38BDF8" fill-opacity=".18" stroke="#7DD3FC"/>
+</g>
+</svg>
