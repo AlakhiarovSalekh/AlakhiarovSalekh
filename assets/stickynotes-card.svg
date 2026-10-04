@@ -1,0 +1,18 @@
+<svg width="560" height="230" viewBox="0 0 560 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="560" y2="230"><stop stop-color="#111827"/><stop offset="1" stop-color="#2A2210"/></linearGradient></defs>
+<rect x="1" y="1" width="558" height="228" rx="20" fill="url(#bg)" stroke="#334155"/>
+<rect x="28" y="25" width="76" height="26" rx="13" fill="#F59E0B" fill-opacity=".12" stroke="#FBBF24" stroke-opacity=".35"/>
+<text x="66" y="43" text-anchor="middle" fill="#FDE68A" font-family="Segoe UI, Arial" font-size="10" font-weight="700">PUBLIC</text>
+<text x="28" y="88" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="27" font-weight="800">Sticky Notes for macOS</text>
+<text x="28" y="117" fill="#FCD34D" font-family="Segoe UI, Arial" font-size="14" font-weight="600">Native themeable desktop utility</text>
+<text x="28" y="148" fill="#CBD5E1" font-family="Segoe UI, Arial" font-size="12.5">Swift • AppKit • SwiftUI • Rich text • Local persistence</text>
+<text x="28" y="174" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="12">8 OS-inspired themes, autosave, restore and multi-monitor safety.</text>
+<g transform="translate(431 57)">
+  <rect width="84" height="84" rx="18" fill="#2A2416" stroke="#F59E0B"/>
+  <rect x="18" y="18" width="48" height="48" rx="8" fill="#FDE68A"/>
+  <rect x="18" y="18" width="48" height="11" rx="8" fill="#FBBF24"/>
+  <path d="M29 39H55M29 48H50M29 57H44" stroke="#92400E" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<rect x="28" y="194" width="116" height="24" rx="7" fill="#FFFFFF" fill-opacity=".06"/>
+<text x="86" y="210" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial" font-size="10.5" font-weight="600">NATIVE DESKTOP</text>
+</svg>
