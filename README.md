@@ -11,13 +11,16 @@
 <br />
 
 <a href="https://www.linkedin.com/in/salekhalakhiarov/">
-  <img src="./assets/linkedin-button.svg" width="190" alt="LinkedIn" />
+  <img src="./assets/linkedin-button.svg" width="185" alt="LinkedIn" />
 </a>
 <a href="mailto:salekh.alakhiarov968@hum.tsu.edu.ge">
-  <img src="./assets/email-button.svg" width="190" alt="Email" />
+  <img src="./assets/email-button.svg" width="185" alt="Email" />
+</a>
+<a href="https://salekh-portfolio.vercel.app/">
+  <img src="./assets/portfolio-button.svg" width="185" alt="Portfolio" />
 </a>
 <a href="https://github.com/AlakhiarovSalekh?tab=repositories">
-  <img src="./assets/github-button.svg" width="190" alt="GitHub" />
+  <img src="./assets/github-button.svg" width="185" alt="GitHub" />
 </a>
 
 <br /><br />
@@ -321,13 +324,16 @@ I'm also open to **remote Full-Stack Software Engineer, Software Engineer, Backe
 <br />
 
 <a href="https://www.linkedin.com/in/salekhalakhiarov/">
-  <img src="./assets/linkedin-button.svg" width="190" alt="LinkedIn" />
+  <img src="./assets/linkedin-button.svg" width="185" alt="LinkedIn" />
 </a>
 <a href="mailto:salekh.alakhiarov968@hum.tsu.edu.ge">
-  <img src="./assets/email-button.svg" width="190" alt="Email" />
+  <img src="./assets/email-button.svg" width="185" alt="Email" />
+</a>
+<a href="https://salekh-portfolio.vercel.app/">
+  <img src="./assets/portfolio-button.svg" width="185" alt="Portfolio" />
 </a>
 <a href="https://github.com/AlakhiarovSalekh">
-  <img src="./assets/github-button.svg" width="190" alt="GitHub" />
+  <img src="./assets/github-button.svg" width="185" alt="GitHub" />
 </a>
 
 <br /><br />
